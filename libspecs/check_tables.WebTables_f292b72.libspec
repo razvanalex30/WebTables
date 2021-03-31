@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="check_tables.WebTables" type="LIBRARY" format="ROBOT" scope="TEST" namedargs="true" generated="2021-03-31T12:37:41Z" specversion="2" source="C:\Users\RAlexandru\Documents\Proiecte Eclipse\TestWebTables\check_tables.py" lineno="6">
+<version />
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``check_tables.WebTables``.</doc>
+<kw name="Click Add" lineno="55">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Insert Data" lineno="73">
+<arguments>
+<arg>values</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Retrieve Data" lineno="35">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Retrieve Rows Per Page" lineno="18">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Search" lineno="12">
+<arguments>
+<arg>search_value</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Select Rows Per Page" lineno="28">
+<arguments>
+<arg>nr_rows</arg>
+</arguments>
+<doc />
+</kw>
+</keywordspec>
